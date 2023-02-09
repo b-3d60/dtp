@@ -1,9 +1,9 @@
 :root {
   --brand-white: #ffffff;
   --brand-black: #141414;
-  --brand-pink: #ff4092;
-  --brand-purple: #7b1173;
-  --brand-violet: #e000cf;
+  --brand-pink: #2e8d8f;
+  --brand-purple: #8518eb;
+  --brand-violet: #f4c201;
 
   --brand-grey-darker: #201f1f;
   --brand-grey-dark: #303030;
@@ -19,7 +19,7 @@
   --brand-alert-orange: #b35f36;
   --brand-alert-yellow: #eac146;
 
-  --color-primary: #ff4092;
+  --color-primary: #8518eb;
   --color-secondary: #8b98a9;
 
   /* Only use these vars for most color referencing for easy light/dark mode */
@@ -32,12 +32,10 @@
   --border-color: #e2e2e2;
   --box-shadow-color: rgba(0, 0, 0, 0.05);
 
-  --font-family-base: 'Sharp Sans', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Helvetica, Arial, sans-serif;
-  --font-family-heading: 'Sharp Sans Display', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Helvetica, Arial, sans-serif;
-  --font-family-monospace: 'Fira Code', 'Fira Mono', Menlo, Monaco, Consolas,
-    'Courier New', monospace;
+  --font-family-base: 'Alwyn';
+  --font-family-heading: 'Gilroy';
+
+  --font-family-monospace: 'Gilroy';
 
   --font-size-root: 15px;
   --font-size-base: 1rem;

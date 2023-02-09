@@ -13,7 +13,7 @@
         "name": "type",
         "label": "Asset Type",
         "type": "boxSelection",
-        "options": ["Dataset", "Algorithm"],
+        "options": ["Print Template", "PRint Ressource"],
         "required": true
       },
       {
