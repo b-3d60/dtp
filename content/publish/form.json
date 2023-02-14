@@ -13,7 +13,7 @@
         "name": "type",
         "label": "Asset Type",
         "type": "boxSelection",
-        "options": ["Print Template", "PRint Ressource"],
+        "options": ["Print Template", "Print Ressource"],
         "required": true
       },
       {

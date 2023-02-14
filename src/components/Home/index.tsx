@@ -60,17 +60,15 @@ export default function HomePage(): ReactElement {
         <Bookmarks />
       </section>
 
+      {/* 
       <Allocations />
+      
 
       <SectionQueryResult
         title="Highest veOCEAN Allocations"
         query={queryMostAllocation}
       />
-
-      <SectionQueryResult title="Most Sales" query={queryMostSales} />
-      <MostViews />
-      <TopSales title="Publishers With Most Sales" />
-      <TopTags title="Top Tags By Sales" />
+      */}
 
       <SectionQueryResult
         title="Recently Published"
@@ -81,6 +79,11 @@ export default function HomePage(): ReactElement {
           </Button>
         }
       />
+      <MostViews />
+      <TopTags title="Top Tags By Sales" />
+      <SectionQueryResult title="Most Sales" query={queryMostSales} />
+
+      <TopSales title="Publishers With Most Sales" />
     </>
   )
 }
