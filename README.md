@@ -31,7 +31,7 @@
   - [Free Pricing](#free-pricing)
 - [✅ GDPR Compliance](#-gdpr-compliance)
   - [Multi-Language Privacy Policies](#multi-language-privacy-policies)
-  - [Privacy Preference Center](#privacy-preference-center)
+  - [Privacy Preference Center](#privacy-preference-center)n
     - [Privacy Preference Center Styling](#privacy-preference-center-styling)
 - [🏛 License](#-license)
 
